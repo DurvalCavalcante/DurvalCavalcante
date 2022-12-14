@@ -1,5 +1,6 @@
 ## <h1>👋🏼 Olá! Eu sou <a href="https://www.linkedin.com/in/durval-cavalcante"><i>Durval Cavalcante</i></a></h1>
 🌱 Desenvolvedor Front-End Jr<br>
+👨‍💻 Futuro Engenheiro de Software
 <br /><br />
 
 <div aling="center">
